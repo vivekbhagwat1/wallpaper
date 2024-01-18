@@ -9,7 +9,7 @@ WallpaperSet is a simple application that allows users to easily set wallpapers 
 - Set wallpapers with just a click or a tap.
 - Easy-to-use interface for a seamless experience.
 - Regularly updated with new wallpapers.
-
+- Uses Pixel API
 ## Screenshots
 
 ![Screenshot 1](/screenshots/screenshot1.png)
@@ -22,4 +22,6 @@ To use WallpaperSet, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/wallpaperset.git
+   git clone https://github.com/vivekbhagwat1/wallpaper.git
+
+2. Get to the directory and use command "flutter run"
